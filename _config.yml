@@ -103,5 +103,5 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/willyiam84/willyiam84.github.io
-  branch: master
+  branch: main
   
